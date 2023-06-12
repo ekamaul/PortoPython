@@ -147,6 +147,8 @@ df2.to_csv("F:\\10. Project\\Dashboard\\HistoryDetailBlock\\ScrapeInv_"+str(bula
 
 # nambah komen test git
 
+#nambah satu lagi
+
 
 
 driver.close()
