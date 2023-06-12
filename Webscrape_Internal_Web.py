@@ -149,6 +149,8 @@ df2.to_csv("F:\\10. Project\\Dashboard\\HistoryDetailBlock\\ScrapeInv_"+str(bula
 
 #nambah satu lagi
 
+# satu lagi nambah nambah nambah
+
 
 
 driver.close()
