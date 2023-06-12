@@ -145,6 +145,8 @@ df2.to_csv("F:\\10. Project\\Dashboard\\Parameter\\ScrapeInv.csv", sep=';', deci
 
 df2.to_csv("F:\\10. Project\\Dashboard\\HistoryDetailBlock\\ScrapeInv_"+str(bulan_detail[41:])+".csv", sep=';', decimal=',',index= False)
 
+# nambah komen test git
+
 
 
 driver.close()
